@@ -9,5 +9,5 @@ function solve(args) {
     if(num < 2) {
         result = false;
     }
-    return.log(result);
+    return(result);
 }
