@@ -28,7 +28,6 @@ function solve(args) {
 				result += b + ' ' + a;
 			}
 	}
-	console.log(result);
+	return(result);
 }
 
-solve(['-2', '4', '3']);
