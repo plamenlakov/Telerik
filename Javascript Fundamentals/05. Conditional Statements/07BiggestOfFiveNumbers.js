@@ -5,6 +5,5 @@ function solve(args) {
 			biggest = args[i] * 1;
 		}
 	}
-	console.log(biggest);
+	return(biggest);
 }
-solve(['0', '-2.5', '0', '5', '5']);
